@@ -1,4 +1,4 @@
-package Classes;
+package src.Classes;
 
 public class ACMEBicycle implements Bicycle1 {
 	int cadence = 0;
